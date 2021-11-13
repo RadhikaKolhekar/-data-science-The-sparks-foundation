@@ -7,5 +7,5 @@ Problem statement: Predicting the percentage of a student based on the no. of st
 
 Task 2: Prediction using Unsupervised ML
 
-Problem statement: Prediciting the Optimum no. of cluster( Iris dataset)
+Problem statement: Predicting the Optimum no. of cluster( Iris dataset)
 
